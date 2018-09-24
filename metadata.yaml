@@ -1,5 +1,8 @@
 _repo: La-vita-intima-e-la-vita-nomade-in-Oriente_56509
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56509-h/images/cover.jpg
 creator:
   author:
     agent_name: Belgioioso, Cristina
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '31239'
     url: http://www.gutenberg.org/2009/agents/31239
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56509#La-vita-intima-e-la-vita-nomade-in-Oriente
 gutenberg_bookshelf: IT Viaggi
 gutenberg_issued: '2018-02-06'
 gutenberg_type: Text
